@@ -229,7 +229,7 @@ uniapp多端兼容版：https://github.com/wmlcjj/AI-IDPhoto
 
 证件照和智能抠图API：http://zjz.0po.cn/
 
-鉴黄API：暂不提供
+鉴黄API：http://nsfw.0po.cn/
 
 黑白图片上色API：http://colourize.0po.cn/
 
